@@ -8,9 +8,9 @@
 
 As a student, I'm constantly exploring new technologies and techniques in artificial intelligence, machine learning, and data science. I enjoy taking on programming challenges and hackathons to test my skills. When I'm not studying, you can usually find me playing strategy games or tinkering with DIY tech projects. Also I’m currently learning **A bunch of stuff**
 
-- 👨‍💻 All of my projects are available at [My github of course](My github of course)
+- 👨‍💻 All of my projects are available here(My github of course)
 
-- 📝 I regularly write articles on [Artificial Intelligent](Artificial Intelligent)
+- 📝 I regularly write articles on [Artificial Intelligent]
 
 - 📫 How to reach me **nguyendat4856@gmail.com**
 
