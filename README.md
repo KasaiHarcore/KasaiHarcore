@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Hi there! I'm a 3rd year Artificial Intelligence student at FPT University with a passion for technology and challenges. I love learning about and building intelligent systems, devices, and games.<br><br>As a student, I'm constantly exploring new technologies and techniques in artificial intelligence, machine learning, and data science. I enjoy taking on programming challenges and hackathons to test my skills. When I'm not studying, you can usually find me playing strategy games or tinkering with DIY tech projects. Also I’m currently learning **A bunch of stuff**
+🌱 Hi there! I'm a 4rd year Artificial Intelligence student at FPT University with a passion for technology and challenges. I love learning about and building intelligent systems, devices, and games.<br><br>As a student, I'm constantly exploring new technologies and techniques in artificial intelligence, machine learning, and data science. I enjoy taking on programming challenges and hackathons to test my skills. When I'm not studying, you can usually find me playing strategy games or tinkering with DIY tech projects. Also I’m currently learning **A bunch of stuff**
 
 
 ## 🌐 Socials:
