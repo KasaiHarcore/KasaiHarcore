@@ -1,0 +1,23 @@
+name: Awaken
+
+on:
+  schedule:
+    - cron: "10 17 * * *"   # 00:10 in Asia/Ho_Chi_Minh
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [awaken.json]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: awaken
+  cancel-in-progress: true
+
+jobs:
+  awaken:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: billtruong003/git-profile-awaken@main
